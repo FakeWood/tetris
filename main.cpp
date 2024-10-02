@@ -152,7 +152,6 @@ int main()
     vector<int> lines = {}; // those lines we got
     int score = 0;
     int pieceCount = 0;
-
     while(!gameOver)
     {
         // GAME TIMEING ======================
